@@ -49,8 +49,7 @@ For beginners, here are some projects that are easy to understand and implement.
 | 18 | Crypto Portfolio Tracker | Tracks cryptocurrency investments with real-time price updates. | N/A | 3 Days |
 | 19 | Fitness Tracker | Track and log fitness routines, calculate calories burned, etc. | N/A | 3 Days |
 | 20 | Recipe Manager | Manages and organizes recipes, with search and filter features. | N/A | 3 Days |
-| 21 | QR Code Generator | Generates QR codes for URLs or text using a library like qrcode. | N/A | 3 Days |
-| 22 | Music Recommendation System | Recommends songs based on listening history and preferences. | N/A | 5 Days |
+| 21 | Music Recommendation System | Recommends songs based on listening history and preferences. | N/A | 5 Days |
 
 ---
 
